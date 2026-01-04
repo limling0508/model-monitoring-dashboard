@@ -1,0 +1,3 @@
+timestamp,model_version,model_type,input_summary,prediction,latency_ms,feedback_score,feedback_text
+2026-01-04T08:13:13.013136,v1_old,baseline,"units=50, region=North, product=Widget",978.5714285714284,22.367238998413086,4,hello 
+2026-01-04T08:13:13.025238,v2_new,improved,"units=50, region=North, product=Widget",976.3757115749523,22.367238998413086,4,hello 
